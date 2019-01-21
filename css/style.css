@@ -818,11 +818,14 @@ span.border.two:after {
     left:65px;
 }
 /*-- footer --*/
+/* .footer-image
+{
+	 transform : rotate(90deg);
+} */
 .footer {
     background: url(../images/aman2.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
-    transform : rotate(90deg);
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
